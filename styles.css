@@ -374,6 +374,15 @@ ul {
     margin-left: -20px;
    }
 
+   /* Knowhere video stuff... */
+   .knowhere-video{
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    width: 40%;
+    margin-left: -20px;
+   }
+
 
    .highlight2{
     color: white;
@@ -444,7 +453,6 @@ ul {
     }
   }
 
-
   @media (max-width: 768px) {
     .project-body {
       margin-left: 0;
@@ -457,6 +465,9 @@ ul {
       padding-left: 10px;
     }
   }
+
+
+ 
 
 
   /* Fixing vertical menu bar issue on mobile view */
